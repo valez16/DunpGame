@@ -1,2 +1,25 @@
-# DunpGame
-Unity ile geliştirilmiş olan 2 boyutlu bir mobil platform oyunudur.
+# # 2 Boyutlu Mobil Platform Oyunu
+
+- 
+
+
+### 
+
+
+
+### 
+
+
+
+
+### 
+
+
+
+
+### 
+
+
+
+### 
+
